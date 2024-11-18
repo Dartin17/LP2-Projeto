@@ -14,8 +14,8 @@ export default async function conectar(){
             "password": process.env.PASSWORD,
             "connectTimeout": 60000,
             "waitForConnections": true,
-            "queueLimit": 20,
-            "connectionLimit": 20
+            "queueLimit": 10,
+            "connectionLimit": 10
         });
         return await global.poolConexoes.getConnection();
     }
