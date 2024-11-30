@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/LP2-Projeto/static/css/main.d221dc40.css",
+    "main.js": "/LP2-Projeto/static/js/main.a7f5722e.js",
+    "static/media/imagem404.png": "/LP2-Projeto/static/media/imagem404.22e922b752c5cf81dc1e.png",
+    "index.html": "/LP2-Projeto/index.html",
+    "main.d221dc40.css.map": "/LP2-Projeto/static/css/main.d221dc40.css.map",
+    "main.a7f5722e.js.map": "/LP2-Projeto/static/js/main.a7f5722e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d221dc40.css",
+    "static/js/main.a7f5722e.js"
+  ]
+}
