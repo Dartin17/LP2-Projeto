@@ -15,7 +15,7 @@ function App() {
                 {/* A ordem das rotas é importante */}
                 <Routes>
                     <Route path="/" element={<TelaMenu />} />
-                    <Route path="/LP2-Sistema" element={<TelaMenu />} />
+                    <Route path="/LP2-Projeto" element={<TelaMenu />} />
                     <Route path="/produto" element={<TelaCadastroProduto />} />
                     <Route path="/cliente" element={<TelaCadastroCliente />} />
                     <Route path="/fornecedor" element={<TelaCadastroFornecedor />} />
